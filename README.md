@@ -1,4 +1,4 @@
-# real-estate data base application
+# real-estate data base mobile app with own ads
 
 A new Flutter project.
 
